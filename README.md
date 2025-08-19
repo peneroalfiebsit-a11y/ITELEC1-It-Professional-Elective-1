@@ -1,4 +1,5 @@
 Activity #1 Basic Math with Condition
+
 import java.util.Scanner;
 
 public class group14 {
