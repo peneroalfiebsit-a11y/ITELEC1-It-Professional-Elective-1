@@ -1,1 +1,1 @@
-# ITELEC1-It-Professional-Elective-1
+Activity #1 Basic Math with Condition
